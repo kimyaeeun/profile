@@ -1,0 +1,57 @@
+@font-face {
+    font-family: AritaSans-Bold;
+    src: url(../../../폰트/아리따산스/AritaSans-Bold.otf );
+}
+@font-face {
+    font-family: AritaSans-light;
+    src: url(../../../폰트/아리따산스/AritaSans-Light.otf );
+}
+@font-face {
+    font-family: AritaSans-Medium;
+    src: url(../../../폰트/아리따산스/AritaSans-Medium.otf );
+}
+@font-face {
+    font-family: AritaSans-SemiBold;
+    src: url(../../../폰트/아리따산스/AritaSans-SemiBold.otf);
+}
+@font-face {
+    font-family: AritaSans-Thin;
+    src: url(../../../폰트/아리따산스/AritaSans-Thin.otf);
+}
+@font-face {
+    font-family: AritaDotum-Bold;
+    src: url(../../../폰트/아리따돋움/아리따-돋움\(TTF\)-Bold.ttf);
+}
+@font-face {
+    font-family: AritaDotum-Light;
+    src: url(../../../폰트/아리따돋움/아리따-돋움\(TTF\)-Light.ttf );
+}
+
+@font-face {
+    font-family: AritaDotum-Medium;
+    src: url(../../../폰트/아리따돋움/아리따-돋움\(TTF\)-Medium.ttf );
+}
+@font-face {
+    font-family: AritaDotum-SemiBold;
+    src: url(../../../폰트/아리따돋움/아리따-돋움\(TTF\)-SemiBold.ttf);
+}
+@font-face {
+    font-family: AritaDotum-Thin;
+    src: url(../../../폰트/아리따돋움/아리따-돋움\(TTF\)-Thin.ttf);
+}
+@font-face {
+    font-family: Cafe24Shiningstar;
+    src: url(../폰트/Cafe24Shiningstar.ttf);
+}
+@font-face {
+    font-family: couture-bld;
+    src: url(../../../폰트/couture-bld.otf);
+}
+@font-face {
+    font-family: couture-bldit;
+    src: url(../../../폰트/couture-bldit.otf);
+}
+@font-face{
+    font-family: Righteous-Regular;
+    src: url(../폰트/Righteous-Regular.ttf);
+}
